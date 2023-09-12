@@ -1,0 +1,4 @@
+name: "NeoFS integration into dApps"
+safemethods: ["getObject"]
+permissions:
+  - methods: ["request", "update", "getObject", "saveObject", "removeObject", "saveObjectCB"]
